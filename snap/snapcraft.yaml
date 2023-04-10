@@ -1,0 +1,21 @@
+name: jira-cli
+base: core20
+version: git
+summary: Command line interface to Atlassian's JIRA.
+description: |
+  Ankit Pokhrel's command line interface to Atlassian's JIRA product.
+grade: stable
+
+confinement: strict
+
+apps:
+  jira:
+    command: bin/jira
+    plugs:
+      - home
+
+parts:
+  jira-cli:
+    plugin: go
+    source-type: git
+    source: https://github.com/ankitpokhrel/jira-cli
