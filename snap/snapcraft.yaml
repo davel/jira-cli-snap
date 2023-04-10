@@ -6,6 +6,9 @@ description: |
   Ankit Pokhrel's command line interface to Atlassian's JIRA product.
 grade: stable
 license: MIT
+issues: https://github.com/davel/jira-cli-snap/issues
+source-code: https://github.com/davel/jira-cli-snap
+website: https://github.com/ankitpokhrel/jira-cli
 
 confinement: strict
 
