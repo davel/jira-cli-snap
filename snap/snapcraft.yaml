@@ -5,11 +5,12 @@ summary: Command line interface to Atlassian's JIRA.
 description: |
   Ankit Pokhrel's command line interface to Atlassian's JIRA product.
 grade: stable
+license: MIT
 
 confinement: strict
 
 apps:
-  jira:
+  jira-cli:
     command: bin/jira
     plugs:
       - home
