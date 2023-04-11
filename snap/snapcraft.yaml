@@ -9,7 +9,7 @@ license: MIT
 issues: https://github.com/davel/jira-cli-snap/issues
 source-code: https://github.com/davel/jira-cli-snap
 website: https://github.com/ankitpokhrel/jira-cli
-
+contact: https://dave.lambley.me.uk/
 confinement: strict
 
 apps:
