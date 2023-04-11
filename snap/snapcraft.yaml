@@ -17,6 +17,7 @@ apps:
     command: bin/jira
     plugs:
       - home
+      - network
 
 parts:
   jira-cli:
