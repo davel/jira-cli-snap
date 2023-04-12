@@ -11,6 +11,9 @@ source-code: https://github.com/davel/jira-cli-snap
 website: https://github.com/ankitpokhrel/jira-cli
 contact: https://dave.lambley.me.uk/
 confinement: strict
+donation:
+  - https://paypal.me/pokharelankit
+  - https://opencollective.com/jira-cli
 
 apps:
   jira-cli:
