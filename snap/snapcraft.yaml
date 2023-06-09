@@ -27,4 +27,4 @@ parts:
     plugin: go
     source-type: git
     source: https://github.com/ankitpokhrel/jira-cli
-    source-tag: v1.3.0
+    source-tag: v1.4.0
