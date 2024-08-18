@@ -1,5 +1,5 @@
 name: jira-cli
-base: core22
+base: core24
 version: git
 summary: Command line interface to Atlassian's JIRA.
 description: |
@@ -27,4 +27,4 @@ parts:
     plugin: go
     source-type: git
     source: https://github.com/ankitpokhrel/jira-cli
-    source-tag: v1.5.0
+    source-tag: v1.5.1
