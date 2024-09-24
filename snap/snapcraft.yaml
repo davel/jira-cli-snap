@@ -21,6 +21,7 @@ apps:
     plugs:
       - home
       - network
+      - desktop
 
 parts:
   jira-cli:
