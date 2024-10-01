@@ -30,4 +30,4 @@ parts:
       - go
     source-type: git
     source: https://github.com/ankitpokhrel/jira-cli
-    source-tag: v1.5.1
+    source-tag: v1.5.2
